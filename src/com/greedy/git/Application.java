@@ -9,6 +9,9 @@ public class Application {
 		System.out.println("또 한줄 추가");
 		System.out.println("나도 나름 코딩 열심히 하고 있어");
 
+		System.out.println("나는 master쭉 간다");
+		System.out.println("나는 master쭉 간다2");
+
 	}
 
 }
